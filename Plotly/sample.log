@@ -5,3 +5,6 @@
 2024-08-14 11:46:03,516:__main__:INFO:X and Y generated.
 2024-08-14 11:46:03,627:__main__:INFO:First Program completed.
 2024-08-14 11:47:48,889:__main__:DEBUG:Second Program completed.
+2024-08-14 12:00:23,137:__main__:DEBUG:Second Program completed.
+2024-08-14 12:05:40,058:__main__:CRITICAL:Third Program completed.
+2024-08-14 12:18:55,370:__main__:WARNING:Forth Program completed.
